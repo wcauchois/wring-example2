@@ -2,12 +2,12 @@
   "name": "cool dank",
   "next": [
     {
-      "site": "https://example.com"
+      "site": "https://wring-example.netlify.app"
     }
   ],
   "prev": [
     {
-      "site": "https://example.com"
+      "site": "https://wring-example.netlify.app"
     }
   ]
 }
