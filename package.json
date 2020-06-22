@@ -1,6 +1,12 @@
 {
   "name": "wring-example",
   "version": "1.0.0",
+  "scripts": {
+    "start": "http-server -o"
+  },
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
 }

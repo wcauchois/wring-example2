@@ -1,0 +1,13 @@
+{
+  "name": "cool dank",
+  "next": [
+    {
+      "site": "https://example.com"
+    }
+  ],
+  "prev": [
+    {
+      "site": "https://example.com"
+    }
+  ]
+}
