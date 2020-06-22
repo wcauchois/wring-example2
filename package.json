@@ -2,7 +2,8 @@
   "name": "wring-example",
   "version": "1.0.0",
   "scripts": {
-    "start": "http-server -o"
+    "start": "http-server -o",
+    "build": "true"
   },
   "main": "index.js",
   "license": "MIT",
